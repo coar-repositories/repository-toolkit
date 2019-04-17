@@ -12,6 +12,8 @@ description: >-
 
 {% embed url="https://www.w3.org/TR/dwbp/" %}
 
+{% embed url="https://support.datacite.org/docs/how-do-i-expose-my-datasets-to-google-dataset-search" %}
+
 {% embed url="https://responsibledata.io" %}
 
 {% embed url="https://www.rd-alliance.org/recommendations-and-outputs/all-recommendations-and-outputs" %}
