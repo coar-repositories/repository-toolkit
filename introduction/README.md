@@ -15,6 +15,8 @@ Wherever possible, we have made an effort to include resources in languages othe
 
 Please contact us at office\[at\]coar-repositories.org with any valuable resources which are not yet included here.
 
+You can also contribute to the toolkit by commenting through [hypothesis](https://web.hypothes.is%20) annotation tool or on the [GitHub repository](https://github.com/coar-repositories/repository-toolkit) by creating an issue. 
+
 [ ](https://www.coar-repositories.org/news-media/dissemination-material/european-repository-infographic/)
 
 
