@@ -22,7 +22,7 @@ description: >-
 * prevent duplication of effort by enabling others to use your data.
 * meet funding agency requirement." \([Why data management?](https://www.tudelft.nl/en/library/current-topics/research-data-management/research-data-management/why-data-management/) by TUDelft\)
 
-[eLearning course about the importance of good research data management ](https://vidensportal.deic.dk/en/RDMELearn)by Danish National Forum for Data Management
+Within the framework of the Danish National Forum for Data Management, the Danish Universities have developed the eLearning course “Research Data Management”. [eLearning course about the importance of good research data management ](https://vidensportal.deic.dk/en/RDMELearn)The course is divided into three independent modules. Each module consists of a 20 min video recording \(including animations and interviews\) that can be taken at the learners’ own pace and may be complemented with face-to-face training. The target audience of the course is PhD students, researchers and research support staff who would like an introduction to the general concepts and terms used in research data management.
 
 ## Resources in Other Languages
 
