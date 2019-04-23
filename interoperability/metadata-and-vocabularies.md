@@ -22,6 +22,10 @@ Bielefeld Academic Search Engine \(BASE\) has compiled golden rules that are hel
 
 {% embed url="https://www.base-search.net/about/en/faq\_oai.php" %}
 
+DCMI \(Dublin Core Metadata Initiative\) offers learning materials including webinars, Dublin Core USer Guide, and other resources on their website. For the basics of metadata, see their guide below:
+
+{% embed url="http://dublincore.org/resources/metadata-basics/" %}
+
 ## Resources in Other Languages
 
 {% embed url="http://www.lareferencia.info/es/recursos/documentos/acuerdos-tecnicos/16-metadatos-y-politicas-de-cosecha-de-la-referencia" %}

@@ -17,7 +17,7 @@ Science and scholarship are critical to improving our lives and solving the worl
 
 [**Five Prerequisites for a Sustainable Knowledge Commons**](https://www.coar-repositories.org/files/COAR-beyond-open-access-1.pdf): Open access is about the democratisation of knowledge. However, as open access becomes widely adopted, there is a risk that we will accentuate the inequalities and unsustainability of scholarly publishing, through wide spread implementation of pay to publish business models. At COAR, We recognize the need to go beyond open access, to create an open and fair system for sharing research outcomes. Our vision is a sustainable knowledge commons. A global commons that reflects the needs of different communities and regions, allow all researchers to fully participate, while also fostering positive change and innovation in scholarly communications. The graphic for the five prerequisities is also available in [Spanish](https://www.coar-repositories.org/files/COAR-beyond-open-access-esp.pdf) \([Más allá del Acceso Abierto](https://www.coar-repositories.org/files/COAR-beyond-open-access-esp.pdf)\).
 
-![Five Prerequisites for a Sustainable Knowledge Commons](../.gitbook/assets/screen-shot-2018-08-22-at-15.22.33.png)
+![Five Prerequisites for a Sustainable Knowledge Commons](../.gitbook/assets/coar-five-prerequisites.jpg)
 
 ## Other resources
 
