@@ -7,7 +7,7 @@ description: >-
 
 # Role of repositories
 
-Together, repositories are the foundation for open science and open scholarship. While repositories can they play a variety of roles, most importantly they collect, manage, preserve and provide access to valuable research and educational content. 
+Together, repositories are the foundation for open science and open scholarship. While repositories can play a variety of roles, most importantly they collect, manage, preserve and provide access to valuable research and educational content. 
 
 Strengthening and maintaining the local management of content through repositories hosted at institutions and research organizations is important for several reasons. Large, centralized services and infrastructure may be easier to market and maintain, but they cannot be as responsive to a diversity of needs and priorities across regions and domains. In addition, local services can engage with the local researchers to help ensure that their outputs are being described and deposited correctly.
 
