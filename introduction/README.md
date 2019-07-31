@@ -15,7 +15,7 @@ Wherever possible, we have made an effort to include resources in languages othe
 
 Please contact us at office\[at\]coar-repositories.org with any valuable resources which are not yet included here.
 
-You can also contribute to the toolkit by commenting through [hypothesis](https://web.hypothes.is%20) annotation tool or on the [GitHub repository](https://github.com/coar-repositories/repository-toolkit) by creating an issue. 
+You can also contribute to the toolkit on the [GitHub repository](https://github.com/coar-repositories/repository-toolkit) by creating an issue. 
 
 COAR Repository Toolkit is licensed under [Creative Commons Atrribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) \(CC BY 4.0\) license except the work cited in this tool.
 
