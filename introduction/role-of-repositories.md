@@ -13,7 +13,7 @@ Strengthening and maintaining the local management of content through repositori
 
 Eloy Rodrigues, Chairperson of COAR, explains below the role of repositories and how to leverage repositories to create more sustainable and innovative system for sharing and building on the results of research. This video is part of [Open Science MOOC](https://opensciencemooc.eu),  Module 6: Open Access to Research Papers.
 
-{% embed url="https://www.youtube.com/watch?v=QleYAELAiKY&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=QleYAELAiKY&feature=youtu.be" caption="The future of next-generation Open Access repositories" %}
 
 In her keynote speech below at the 2018 RLUK Conference, Kathleen Shearer presents the current international context for scholarly communication, outline a vision for a more sustainable and equitable system for scholarly communication, and position open repositories within that environment.
 
