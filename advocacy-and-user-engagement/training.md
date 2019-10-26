@@ -21,7 +21,6 @@ description: >-
 ## Posters & infographics
 
 * Five Prerequisites for a Global Knowledge Commons \([EN](https://www.coar-repositories.org/files/COAR-beyond-open-access-1.pdf), [ES](https://www.coar-repositories.org/files/COAR-beyond-open-access-esp.pdf)\) by COAR
-* Repositories: Critical infrastructure for open science and innovation \([EN](https://www.coar-repositories.org/news-media/dissemination-material/european-repository-infographic/), [ES](https://www.coar-repositories.org/news-media/dissemination-material/repositorios-de-europa/)\) by COAR
 * Controlled Vocabularies \([EN](https://www.coar-repositories.org/files/coar-cv-infog-e_24102902-2.pdf), [ES](https://www.coar-repositories.org/files/coar-cv-infog-f_27051415.pdf), [FR](https://www.coar-repositories.org/files/coar-cv-infog-f_27052042.pdf)\) by COAR 
 
 
