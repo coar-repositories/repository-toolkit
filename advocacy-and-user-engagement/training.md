@@ -17,6 +17,7 @@ description: >-
 * [Resources for research data management](http://www.ands.org.au/working-with-data/skills) by ANDS 
 * [Open Research Glossar](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml)y by The Right to Research Coalition
 * [Open Science MOOC](https://opensciencemooc.eu) 
+* [Implementing FAIR Data Principles: The Role of Libraries](https://libereurope.eu/wp-content/uploads/2017/12/LIBER-FAIR-Data.pdf) by LIBER
 
 ## Posters & infographics
 
